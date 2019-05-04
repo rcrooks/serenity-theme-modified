@@ -1,4 +1,4 @@
-# Serenity theme
+# Serenity theme modified
 
 ## Preview
 
@@ -7,21 +7,13 @@
 
 ## About
 
-I've built this theme with 3 things in mind:
-
-- it should be easy on eyes for all-day (or all-night :) coding
-- yet it should be colorful and pleasant for an eye
-- it should have good syntax highlight with clear distinction of important keywords
-
-Please keep in mind that i'm a frontend developer and this theme is mainly intended to be used by web devs since i didn't test nor optimize it for any server-side languages.
-
-_I hope you enjoy it!_
+This is a very minor modification of Roman Chesnokov's beautiful [Serenity Theme](https://marketplace.visualstudio.com/items?itemName=rchesnokov.serenity-theme). Serenity was my favorite from the first time I tried it. I just had one tiny issue with it: non-selected line numbers were so dark that I couldn't read them, which was a problem for me because I often work on very long files and need to find a section by the line numbers. 
 
 ## Contribution
 
-If something is wrong or ugly in some language feel free to create an issue or pull request in [Repository](https://github.com/rchesnokov/vscode-serenity-theme). Don't forget to provide code sample for your language so i can test the highlight.
+If you have recommendations for improvements, feel free to create an issue or pull request in [Repository](https://github.com/rcrooks/serenity-theme-modified). Don't forget to provide code sample for your language so i can test the highlight.
 
 ## Credits
 
-Author: Roman Chesnokov  
-Icon: [Roundicons](https://www.flaticon.com/authors/roundicons)
+Author: Robert Crooks 
+Icon: [Vector created by visnezh - www.freepik.com](https://www.freepik.com/free-photos-vectors/background)
